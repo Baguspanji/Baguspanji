@@ -43,20 +43,6 @@ I'm a passionate fullstack developer with experience in creating various types o
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🚀 Featured Projects
-
-#### PPDB SMK Sultan Al-Yasini
-Student admission system with online registration and student data management.
-> PHP, Laravel, MySQL | [Visit Site](https://ppdb.smkalyasini.com/)
-
-#### Awash Laundry Employee Management
-Online attendance application for efficient employee management.
-> PHP, Laravel, JavaScript | [Visit Site](https://awash.id/)
-
-#### Hutan Cempaka Company Profile
-Professional company profile with responsive design.
-> HTML/CSS, JavaScript, PHP | [Visit Site](https://hutancempaka.com/)
-
 ### 🌟 Soft Skills
 - Design Thinking
 - Problem Solving
