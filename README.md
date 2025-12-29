@@ -16,15 +16,30 @@ I'm a passionate fullstack developer with experience in creating various types o
 
 ### 💼 Work Experience
 
-- **Backend Developer** at Icon Plus (2022 - Present)
-  - API development using Golang and Laravel
-  - Backend security and scalability improvements
-  
-- **Frontend Developer** at Jongjava Technology (2021 - 2022)
-  - Web application development with Laravel and Flutter
-  
-- **Junior Programmer** (Freelance, 2019 - 2021)
-  - Company profile and attendance system development
+- **Full Stack Developer** (Freelance)
+  - Mar 2020 — Current
+  - Developing personal projects using multiple programming languages
+
+- **Full Stack Developer** at CV. Jong Java Tech, Surabaya, Indonesia
+  - Mar 2020 — Oct 2024
+  - Actively participate in development as a member of the technical team
+
+- **Backend Developer** at PT. Indonesia Commerce Plus, Jakarta, Indonesia
+  - Jan 2021 — Oct 2025
+  - Backend Development for PLN Mobile Marketplace
+  - Technical troubleshooting and system debugging
+
+- **Frontend Developer** at Agtran Travel, Malaysia
+  - Mar 2022 — May 2022
+  - Crafted responsive mobile designs apps development
+
+- **Web Developer** at PT. Ladang Karya Husada, Surabaya, Indonesia
+  - Jan 2022 — Mar 2022
+  - Development of internal company administration applications
+
+- **Frontend & Backend Developer** at PT. Solusi Infotech Semesta Indonesia, Bandung, Indonesia
+  - Jan 2024 — Mar 2024
+  - Creating RestApi and implementing it in mobile apps
 
 ### 🎓 Education
 
